@@ -1,0 +1,35 @@
+.flex {
+ display: flex;
+}
+.hr-center {
+ justify-content: center;
+
+}
+
+.white {
+ color: white;
+}
+.black {
+ color: black;
+}
+
+.bold {
+ font-weight: bold;
+}
+.bolder {
+ font-weight: bolder;
+}
+.light {
+ font-weight: lighter;
+}
+
+.seperate {
+ justify-content: space-between;
+}
+.vr-center {
+ align-items: center;
+}
+
+.center {
+ text-align: center;
+}
